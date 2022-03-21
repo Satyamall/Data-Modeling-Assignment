@@ -13,7 +13,7 @@
 
 # 4. create an ERD / CRD diagram for a blog application
 
- - 
+ - ![download](https://user-images.githubusercontent.com/80479635/159255586-93a95a82-eb36-4a76-9380-f8a292000545.png)
 
 # 5. create and design schema for each collection
 
@@ -74,7 +74,7 @@ Likes Collection
 
 # 7. Estimate daily read and writes, users, data transfer, list down all assumptions you have made
 
-- 
+- ![download (1)](https://user-images.githubusercontent.com/80479635/159255626-69892f01-4582-4f78-bb14-5f445e83a3d8.png)
 
 # 8. Write down some queries ( no need to write actual queries, but the kind of information that users, and admins would like to see ). for example: - list 10 post by user_id with pagination descending order of date
 ```js
